@@ -11,6 +11,7 @@ export const Navbar = () => {
 
     const handleLogout = () => {
 
+
         history.replace('/login')
 
         dispatch({
