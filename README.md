@@ -5,4 +5,4 @@ simula un login con proteccion de rutas.
 
 ## Puede ver el proyecto funcionando online!
 
-Haga click en el siguiente enlace --->[HeroesApp](https://heroesapp-zapata.netlify.app/login)
+Haga click en el siguiente enlace --->[HeroesApp](https://heroesapp-zapata.netlify.app)
