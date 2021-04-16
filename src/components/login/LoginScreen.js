@@ -9,6 +9,7 @@ export const LoginScreen = ( { history } ) => {
     const handleLogin = () => {
         //history.replace('/')
 
+       
         const lastPath = localStorage.getItem('lastPath') || '/'
 
         const action = {
